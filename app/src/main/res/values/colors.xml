@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9C27B0</color> <!-- Azul -->
+    <color name="colorPrimaryDark">#9C27B0</color> <!-- Azul mais escuro -->
+    <color name="colorAccent">#FF0000</color> <!-- Cor de destaque -->
+    <color name="backgroundColor">#FFFFFF</color> <!-- Branco -->
+    <color name="textColor">#000000</color> <!-- Texto Preto -->
+</resources>
